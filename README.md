@@ -1,4 +1,4 @@
-#EDIT
+# EDIT
 
 # Fire_Detection_CNN
 Implementation of CNN algorithm (Deep Learning) for Image Detection.
